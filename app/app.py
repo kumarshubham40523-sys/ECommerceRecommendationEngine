@@ -142,28 +142,51 @@ st.markdown(
 
 
     /* =====================================================
-       RECOMMENDATION CARDS
-       ===================================================== */
+    PRODUCT CARD VISUALS
+    ===================================================== */
 
-    div[data-testid="column"] {
-        background: #ffffff;
-        border: 1px solid #e0e0e0;
-        border-radius: 12px;
-        padding: 1rem;
-
-        box-shadow:
-            0 2px 8px rgba(0, 0, 0, 0.08);
-
-        transition:
-            transform 0.2s ease,
-            box-shadow 0.2s ease;
+    .product-card-image {
+        border-radius: 10px;
+        overflow: hidden;
+        margin-bottom: 8px;
     }
 
-    div[data-testid="column"]:hover {
-        transform: translateY(-4px);
+    .product-card-title {
+        font-size: 17px;
+        font-weight: 750;
+        color: #172337;
+        line-height: 1.35;
+        min-height: 48px;
+        margin: 6px 0 8px 0;
+    }
 
-        box-shadow:
-            0 7px 18px rgba(0, 0, 0, 0.14);
+    .category-badge {
+        display: inline-block;
+        background: #e8f1ff;
+        color: #2874f0;
+        padding: 4px 10px;
+        border-radius: 14px;
+        font-size: 12px;
+        font-weight: 650;
+        margin-bottom: 8px;
+    }
+
+    .product-price {
+        color: #1b5e20;
+        font-size: 23px;
+        font-weight: 800;
+        margin: 6px 0 10px 0;
+    }
+
+    .recommendation-banner {
+        background: #ffffff;
+        border-left: 4px solid #2874f0;
+        padding: 12px 15px;
+        border-radius: 8px;
+        color: #555555;
+        font-size: 14px;
+        margin-bottom: 15px;
+        box-shadow: 0 2px 7px rgba(0,0,0,0.05);
     }
 
 
@@ -182,16 +205,24 @@ st.markdown(
 
         font-weight: 700;
 
-        padding: 0.6rem 1rem;
+        padding: 0.65rem 1rem;
 
         transition: all 0.2s ease;
+
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.10);
     }
 
     .stButton > button:hover {
         background: #ffc200;
         color: #212121;
 
-        transform: translateY(-1px);
+        transform: translateY(-2px);
+
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .stButton > button:active {
+        transform: translateY(0);
     }
 
 
@@ -255,11 +286,32 @@ st.markdown(
             0 2px 8px rgba(0, 0, 0, 0.06);
     }
 
+        /* =====================================================
+       HIDE STREAMLIT AUTO PAGE NAVIGATION
+       ===================================================== */
+
+    [data-testid="stSidebarNav"] {
+        display: none;
+    }
+
 
     /* =====================================================
        CART SIDEBAR
        ===================================================== */
 
+    /* Cart sidebar styling */
+    [data-testid="stSidebar"] {
+        padding-top: 1rem;
+    }
+
+    [data-testid="stSidebar"] h2 {
+        font-size: 1.3rem;
+        font-weight: 700;
+    }
+
+    [data-testid="stSidebar"] .stButton > button {
+        border-radius: 8px;
+    }
     .cart-item {
         background: #f8f9fa;
 
@@ -519,30 +571,57 @@ def log_search(user_id, query):
 st.html(
     """
     <div style="
-        background:#172337;
-        padding:20px 28px;
-        border-radius:12px;
+        background:linear-gradient(135deg,#172337,#243b55);
+        padding:24px 30px;
+        border-radius:14px;
         display:flex;
         align-items:center;
         justify-content:space-between;
-        box-shadow:0 4px 14px rgba(0,0,0,0.18);
-        margin-bottom:8px;
+        box-shadow:0 5px 16px rgba(0,0,0,0.16);
+        margin-bottom:12px;
     ">
 
-        <div style="
-            color:#ffffff;
-            font-size:30px;
-            font-weight:800;
-        ">
-            🛒 ShopSmart
+        <div>
+
+            <div style="
+                color:#ffffff;
+                font-size:34px;
+                font-weight:850;
+                letter-spacing:0.2px;
+            ">
+                🛒 ShopSmart
+            </div>
+
+            <div style="
+                color:#cfd8e3;
+                font-size:14px;
+                margin-top:5px;
+            ">
+                Personalized shopping powered by data & AI
+            </div>
+
         </div>
 
         <div style="
-            color:#ffffff;
-            font-size:15px;
-            font-weight:500;
+            text-align:right;
         ">
-            Smart Recommendations • Better Shopping
+
+            <div style="
+                color:#ffffff;
+                font-size:15px;
+                font-weight:700;
+            ">
+                Smart Recommendations
+            </div>
+
+            <div style="
+                color:#ffb300;
+                font-size:13px;
+                margin-top:5px;
+            ">
+                SparkML • AI • Real-Time Behavior
+            </div>
+
         </div>
 
     </div>
@@ -566,7 +645,7 @@ st.html(
         margin-bottom:10px;
         box-shadow:0 2px 8px rgba(40,116,240,0.25);
     ">
-        Personalized products powered by SparkML & AI
+        Personalized recommendations using SparkML ALS, AI & real-time user behavior
     </div>
     """
 )
@@ -574,8 +653,26 @@ st.html(
 # USER SELECTION
 # ============================================================
 
-st.subheader(
-    "👤 Select User"
+st.html(
+    """
+    <div style="
+        color:#172337;
+        font-size:21px;
+        font-weight:800;
+        margin-top:8px;
+        margin-bottom:4px;
+    ">
+        👤 Personalize Your Shopping
+    </div>
+
+    <div style="
+        color:#666666;
+        font-size:14px;
+        margin-bottom:10px;
+    ">
+        Select a user profile to view personalized recommendations.
+    </div>
+    """
 )
 
 available_users = sorted(
@@ -599,11 +696,12 @@ previous_user = st.session_state["selected_user"]
 
 
 selected_user = st.selectbox(
-    "Choose a user to view personalized recommendations",
+    "Customer Profile",
     available_users,
     index=available_users.index(
         st.session_state["selected_user"]
-    )
+    ),
+    format_func=lambda user: f"User {user}"
 )
 
 
@@ -659,13 +757,22 @@ cart_count = len(
 st.markdown(
     f"""
     <div style="
-        text-align:right;
-        color:#172337;
-        font-weight:700;
-        font-size:16px;
+        display:flex;
+        justify-content:flex-end;
         margin:10px 0 15px 0;
     ">
-        🛒 Cart: {cart_count} item(s)
+        <div style="
+            background:#ffffff;
+            border:1px solid #e0e0e0;
+            border-radius:20px;
+            padding:7px 16px;
+            color:#172337;
+            font-weight:700;
+            font-size:14px;
+            box-shadow:0 2px 6px rgba(0,0,0,0.08);
+        ">
+            🛒 {cart_count} item(s) in cart
+        </div>
     </div>
     """,
     unsafe_allow_html=True
@@ -718,16 +825,44 @@ with st.sidebar:
 
         for item in cart_items:
 
-            st.markdown(
-                f"### {item['product_name']}"
-            )
+            st.html(
+                f"""
+                <div style="
+                    background:#f8f9fa;
+                    border:1px solid #e0e0e0;
+                    border-radius:9px;
+                    padding:10px 12px;
+                    margin-bottom:8px;
+                ">
 
-            st.caption(
-                f"{item['category']}"
-            )
+                    <div style="
+                        color:#172337;
+                        font-size:14px;
+                        font-weight:750;
+                        line-height:1.35;
+                    ">
+                        {html.escape(str(item['product_name']))}
+                    </div>
 
-            st.write(
-                f"**₹{float(item['price']):,.2f}**"
+                    <div style="
+                        color:#2874f0;
+                        font-size:12px;
+                        margin-top:4px;
+                    ">
+                        {html.escape(str(item['category']))}
+                    </div>
+
+                    <div style="
+                        color:#1b5e20;
+                        font-size:16px;
+                        font-weight:800;
+                        margin-top:6px;
+                    ">
+                        ₹{float(item['price']):,.2f}
+                    </div>
+
+                </div>
+                """
             )
 
             if st.button(
@@ -780,16 +915,23 @@ with st.sidebar:
 # PRODUCT SEARCH
 # ============================================================
 
-st.subheader("🔎 Search Products")
+
+st.subheader("🔎 Find Your Product")
+
+st.caption(
+    "Search by product name or category to discover products."
+)
 
 search_query = st.text_input(
-    "Search by product name or category",
-    placeholder="Try: Java, Books, Electronics..."
+    "Search",
+    placeholder="Try: Java, Books, Electronics...",
+    label_visibility="collapsed"
 )
 
 search_button = st.button(
-    "🔎 Search",
-    key="search_button"
+    "🔎 Search Products",
+    key="search_button",
+    use_container_width=True
 )
 
 if search_button and search_query.strip():
@@ -831,9 +973,12 @@ if search_query:
     st.divider()
 
     st.subheader(
-        f"🔎 Search Results for '{search_query}'"
+        f"🔎 Results for “{search_query}”"
     )
 
+    st.caption(
+        "Products matching your search"
+    )
     if search_results.empty:
 
         st.warning(
@@ -897,12 +1042,36 @@ if search_query:
                         f"### {product['product_name']}"
                     )
 
-                    st.write(
-                        f"**Category:** {product['category']}"
+                    st.markdown(
+                        f"""
+                        <div style="
+                            display:inline-block;
+                            background:#e8f1ff;
+                            color:#2874f0;
+                            padding:4px 10px;
+                            border-radius:14px;
+                            font-size:12px;
+                            font-weight:600;
+                            margin-bottom:8px;
+                        ">
+                            {product['category']}
+                        </div>
+                        """,
+                        unsafe_allow_html=True
                     )
 
-                    st.write(
-                        f"**Price:** ₹{float(product['price']):,.2f}"
+                    st.markdown(
+                        f"""
+                        <div style="
+                            color:#1b5e20;
+                            font-size:22px;
+                            font-weight:800;
+                            margin:6px 0 12px 0;
+                        ">
+                            ₹{float(product['price']):,.0f}
+                        </div>
+                        """,
+                        unsafe_allow_html=True
                     )
 
                     # ====================================================
@@ -1481,12 +1650,17 @@ recommended_products = user_recommendations.copy()
 st.divider()
 
 st.subheader(
-    f"🎯 Recommended Products for User {selected_user}"
+    f"🎯 Personalized Recommendations for User {selected_user}"
 )
 
-st.write(
-    "These products are recommended using "
-    "SparkML ALS collaborative filtering."
+st.html(
+    """
+    <div class="recommendation-banner">
+        🤖 Personalized using
+        <b>SparkML ALS</b> collaborative filtering
+        and <b>real-time user behavior</b>.
+    </div>
+    """
 )
 
 
@@ -1538,7 +1712,19 @@ for column, (_, product) in zip(
         # ----------------------------------------------------
 
         st.markdown(
-            f"### {product['product_name']}"
+            f"""
+            <div style="
+                font-size:17px;
+                font-weight:750;
+                color:#172337;
+                line-height:1.35;
+                min-height:48px;
+                margin:6px 0 8px 0;
+            ">
+                {product['product_name']}
+            </div>
+            """,
+            unsafe_allow_html=True
         )
 
 
@@ -1546,8 +1732,22 @@ for column, (_, product) in zip(
         # CATEGORY
         # ----------------------------------------------------
 
-        st.write(
-            f"**Category:** {product['category']}"
+        st.markdown(
+            f"""
+            <div style="
+                display:inline-block;
+                background:#e8f1ff;
+                color:#2874f0;
+                padding:4px 10px;
+                border-radius:14px;
+                font-size:12px;
+                font-weight:600;
+                margin-bottom:8px;
+            ">
+                {product['category']}
+            </div>
+            """,
+            unsafe_allow_html=True
         )
 
 
@@ -1555,8 +1755,18 @@ for column, (_, product) in zip(
         # PRICE
         # ----------------------------------------------------
 
-        st.write(
-            f"**Price:** ₹{float(product['price']):,.2f}"
+        st.markdown(
+            f"""
+            <div style="
+                color:#1b5e20;
+                font-size:24px;
+                font-weight:800;
+                margin:6px 0;
+            ">
+                ₹{float(product['price']):,.0f}
+            </div>
+            """,
+            unsafe_allow_html=True
         )
 
 
@@ -1564,10 +1774,36 @@ for column, (_, product) in zip(
         # RECOMMENDATION SCORE
         # ----------------------------------------------------
 
-        st.metric(
-            "Recommendation Score",
-            f"{float(product['final_score']):.3f}"
+        score = float(product["final_score"])
+
+        if score >= 0.75:
+            badge = "🔥 Highly Recommended"
+        elif score >= 0.50:
+            badge = "⭐ Recommended"
+        else:
+            badge = "👍 Suggested"
+
+        st.markdown(
+            f"""
+            <div style="
+                background:#e8f5e9;
+                color:#1b5e20;
+                padding:6px 10px;
+                border-radius:8px;
+                font-size:13px;
+                font-weight:700;
+                text-align:center;
+                margin:8px 0;
+            ">
+                {badge}
+            </div>
+            """,
+            unsafe_allow_html=True
         )
+
+        st.progress(min(score, 1.0))
+
+        st.caption(f"Match Score: {score:.2f}")
 
 
         # ----------------------------------------------------
