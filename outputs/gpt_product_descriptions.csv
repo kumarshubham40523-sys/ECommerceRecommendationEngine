@@ -1,0 +1,628 @@
+product_id,product_name,category,price,generated_description
+1,Smartphone 1,Electronics,51695.0,This smartphone is an electronics product suitable for personal mobile use.
+2,Laptop 2,Electronics,3463.34,"This Laptop 2 is a computing device suitable for general computing tasks, i[1D[K
+ideal for everyday use. It falls under the category of Electronics. Availab[7D[K
+Available for purchase at ₹3463.34."
+3,Wireless Headphones 3,Electronics,23089.8,"Wireless Headphones 3 are a type of audio accessory suitable for listening [K
+to music, podcasts, and audiobooks on the go."
+4,Smartwatch 4,Electronics,19022.04,"A smartwatch is a wearable device designed to track and display various hea[3D[K
+health and fitness metrics, as well as receive notifications, suitable for [K
+general health and fitness tracking."
+5,Tablet 5,Electronics,59312.99,"This Tablet 5 is an electronics product designed for general use and entert[6D[K
+entertainment purposes. It belongs to the Electronics category."
+6,Digital Camera 6,Electronics,54620.91,"A digital camera is an electronic device suitable for capturing and recordi[7D[K
+recording visual images. It is a product within the Electronics category. T[1D[K
+The Digital Camera 6 is a device available for purchase priced at ₹54620.91[9D[K
+₹54620.91."
+7,Mechanical Keyboard 7,Electronics,71536.1,"A Mechanical Keyboard 7 is an electronics product suitable for typing and i[1D[K
+input tasks."
+8,Wireless Mouse 8,Electronics,8324.7,"The Wireless Mouse 8 is an electronics product designed for computer use, a[1D[K
+allowing users to navigate and interact with their computer interface with [K
+ease, providing a convenient and efficient way to perform everyday tasks."
+9,Computer Monitor 9,Electronics,34620.86,A computer monitor is a display device suitable for general viewing tasks.
+10,Bluetooth Speaker 10,Electronics,3839.08,"This Bluetooth Speaker 10 is an electronics product designed for music list[4D[K
+listening and entertainment. It belongs to the category of audio equipment,[10D[K
+equipment, providing a portable and wireless audio solution for individuals[11D[K
+individuals and groups."
+11,Cotton T-Shirt 11,Fashion,1983.51,A cotton t-shirt suitable for casual wear in the fashion category.
+12,Slim Fit Jeans 12,Fashion,4191.24,Slim Fit Jeans 12 are fashion items suitable for casual wear.
+13,Casual Jacket 13,Fashion,504.33,"This Casual Jacket 13 is a fashion item suitable for everyday wear. It is d[1D[K
+designed for casual occasions, adding a stylish touch to any outfit. Perfec[6D[K
+Perfect for those who prioritize comfort and versatility, this jacket is a [K
+versatile addition to any wardrobe."
+14,Running Sneakers 14,Fashion,1831.05,"Running Sneakers 14 are fashion footwear designed for running and other ath[3D[K
+athletic activities. They are suitable for individuals who engage in regula[6D[K
+regular physical exercise or sports. The sneakers are a part of the fashion[7D[K
+fashion category, providing a stylish and functional option for those looki[5D[K
+looking to upgrade their athletic footwear."
+15,Pullover Hoodie 15,Fashion,5304.11,"This Pullover Hoodie 15 is a fashion item designed to provide warmth and co[2D[K
+comfort. It falls under the category of clothing, specifically a type of ca[2D[K
+casual outerwear. The hoodie is suitable for everyday wear, making it a ver[3D[K
+versatile addition to any wardrobe."
+16,Travel Backpack 16,Fashion,4496.05,"A travel backpack designed for fashion enthusiasts, suitable for daily comm[4D[K
+commutes and weekend getaways. The Travel Backpack 16 is a versatile and st[2D[K
+stylish accessory that provides ample space for essentials. Its fashionable[11D[K
+fashionable design makes it a great addition to any outfit."
+17,Wrist Watch 17,Fashion,1997.39,"A wrist watch is a timepiece suitable for wearing on the wrist, typically s[1D[K
+serving a functional purpose of telling time. It falls under the category o[1D[K
+of fashion, a product designed to enhance personal style and aesthetic appe[4D[K
+appeal. The wrist watch is priced at ₹1997.39."
+18,Sunglasses 18,Fashion,4837.35,"This pair of sunglasses is designed for fashion purposes. Suitable for casu[4D[K
+casual wear, they are a part of the fashion category. The sunglasses are pr[2D[K
+priced at ₹4837.35."
+19,Casual Shoes 19,Fashion,6532.61,"Casual Shoes 19 is a fashion accessory suitable for everyday wear. Designed[8D[K
+Designed for comfort, these shoes feature a classic style. They are part of[2D[K
+of the fashion category and are priced at ₹6532.61."
+20,Baseball Cap 20,Fashion,350.04,"This Baseball Cap 20 is a fashion accessory designed for casual wear. It is[2D[K
+is suitable for everyday use and outdoor activities. The cap is made from a[1D[K
+a specific material and features a classic design. It is priced at ₹350.04,[8D[K
+₹350.04, making it a budget-friendly option for those seeking a simple hat."
+21,Python Programming Book 21,Books,2063.09,"A comprehensive Python programming book, suitable for those looking to lear[4D[K
+learn or improve their Python programming skills."
+22,Data Science Book 22,Books,1820.81,"This Data Science Book 22 is a book in the category of Books, priced at ₹18[3D[K
+₹1820.81."
+23,Machine Learning Book 23,Books,1015.56,"A book on machine learning is a resource for learning and understanding com[3D[K
+complex algorithms and techniques used in machine learning. This book is a [K
+part of the Machine Learning series, catering to individuals and profession[10D[K
+professionals looking to expand their knowledge in the field of machine lea[3D[K
+learning."
+24,AI Fundamentals Book 24,Books,599.83,"The AI Fundamentals Book 24 is a book suitable for learning the basics of a[1D[K
+artificial intelligence."
+25,Database Systems Book 25,Books,2403.73,"This Database Systems Book 25 is a comprehensive resource for understanding[13D[K
+understanding database systems, covering various concepts and techniques in[2D[K
+in the field. It is a suitable book for students and professionals looking [K
+to learn about database systems and their applications. The book provides a[1D[K
+a general overview of database systems, making it a valuable addition to an[2D[K
+any library or personal collection."
+26,Operating Systems Book 26,Books,1007.34,"This book, Operating Systems Book 26, is a resource for those interested in[2D[K
+in computer systems and programming. It falls under the category of Books, [K
+offering a general knowledge base on operating systems. With a price of ₹10[3D[K
+₹1007.34, it is an entry-point for learning about computer systems and thei[4D[K
+their operations."
+27,Computer Networks Book 27,Books,458.68,"A computer networks book is a resource for learning about computer networks[8D[K
+networks, providing information on the fundamental concepts, protocols, and[3D[K
+and technologies that enable communication between devices. This book is a [K
+valuable resource for those seeking to understand computer networks, either[6D[K
+either for educational or professional purposes."
+28,Java Programming Book 28,Books,467.61,"This Java Programming Book 28 is a comprehensive resource for learning the [K
+programming language Java. It belongs to the Books category, making it an i[1D[K
+ideal addition to anyone's library or study collection. The book provides i[1D[K
+in-depth guidance on Java programming concepts and techniques, catering to [K
+students and professionals alike."
+29,Algorithms Book 29,Books,2156.86,"The Algorithms Book 29 is a book suitable for studying algorithms and compu[5D[K
+computer science concepts. It belongs to the Books category."
+30,Cloud Computing Book 30,Books,1608.38,"This Cloud Computing Book 30 is a book in the category of books, suitable f[1D[K
+for individuals interested in cloud computing and related subjects. It prov[4D[K
+provides information and insights on cloud computing concepts and practices[9D[K
+practices. The book is priced at ₹1608.38 and is intended to support learni[6D[K
+learning and professional development in the field of cloud computing."
+31,Table Lamp 31,Home,9743.4,"The Table Lamp 31 is a home lighting fixture designed to provide ambient il[2D[K
+illumination. It is a table lamp suitable for general lighting needs."
+32,Ergonomic Office Chair 32,Home,8837.86,"This Ergonomic Office Chair 32 is designed for comfort and support in a hom[3D[K
+home setting, allowing users to work or relax in a more relaxed position. I[1D[K
+Its category aligns with home furnishings, making it a suitable addition to[2D[K
+to any living space."
+33,Cotton Bed Sheet 33,Home,6573.87,A Cotton Bed Sheet 33 is a home textile product suitable for bed use.
+34,Window Curtains 34,Home,11685.45,"Window Curtains 34 are a home product designed to provide privacy and decor[5D[K
+decoration for windows. Suitable for general home use, they offer a functio[7D[K
+functional solution for window treatment. This product falls under the home[4D[K
+home category and is priced at ₹11685.45."
+35,Wall Clock 35,Home,4728.85,"This Wall Clock 35 is a time-keeping device suitable for display in a home [K
+setting, fitting within a 35-inch circumference. It is categorized under Ho[2D[K
+Home decor."
+36,Storage Organizer 36,Home,6758.88,"A Storage Organizer 36 is a home storage solution designed to keep your bel[3D[K
+belongings organized and clutter-free. It provides a compact and convenient[10D[K
+convenient way to store and manage personal items. Suitable for use in home[4D[K
+homes, offices, and other indoor spaces."
+37,Decorative Cushion 37,Home,10004.03,"This decorative cushion is a home accessory designed to add a touch of comf[4D[K
+comfort and style to your living space. Suitable for use on sofas, armchair[8D[K
+armchairs, or ottomans, it is a simple and elegant way to enhance the aesth[5D[K
+aesthetic of your home. Its durable construction makes it a long-lasting ad[2D[K
+addition to your decor."
+38,Desk Organizer 38,Home,7536.68,"The Desk Organizer 38 is a home product designed to keep your workspace tid[3D[K
+tidy and organized. It is suitable for storing office supplies, paperwork, [K
+and other essentials. This desk organizer provides a convenient place to pl[2D[K
+place frequently used items, promoting a clutter-free workspace. Its compac[6D[K
+compact size makes it ideal for use on a desk or office table."
+39,Steel Water Bottle 39,Home,10381.97,"A Steel Water Bottle 39 is a water bottle suitable for hydration purposes i[1D[K
+in a home setting."
+40,Home Decor Set 40,Home,7055.02,"A Home Decor Set 40 is a home furnishing product, designed to enhance the a[1D[K
+aesthetic of a room. It falls under the category of Home and is priced at ₹[1D[K
+₹7055.02."
+41,Football 41,Sports,7163.89,The Football 41 is a sports equipment item designed for playing football.
+42,Cricket Bat 42,Sports,839.91,"The Cricket Bat 42 is a sports equipment designed for cricket players. It i[1D[K
+is a bat, used for playing the sport of cricket. This bat is categorized un[2D[K
+under sports equipment. It is priced at ₹839.91."
+43,Badminton Racket 43,Sports,2587.82,"This badminton racket is a sports equipment designed for playing badminton.[10D[K
+badminton. It is suitable for the sport category."
+44,Tennis Ball Set 44,Sports,3178.12,"A tennis ball set suitable for playing tennis, a popular sport. This set is[2D[K
+is categorized under sports equipment. It is available for ₹3178.12."
+45,Gym Gloves 45,Sports,1166.0,"The Gym Gloves 45 are sports equipment designed for use during physical act[3D[K
+activities such as weightlifting, cardio exercises, and other gym workouts.[9D[K
+workouts. They are intended to provide grip and protection for the hands du[2D[K
+during these activities."
+46,Yoga Mat 46,Sports,2634.79,"A yoga mat designed for fitness and flexibility, suitable for yoga and othe[4D[K
+other low-impact exercises, is a must-have accessory for those practicing y[1D[K
+yoga or engaging in similar physical activities."
+47,Skipping Rope 47,Sports,1369.61,"A skipping rope is a rope used for skipping. It is suitable for physical ex[2D[K
+exercise and outdoor activities. The Skipping Rope 47 is designed for this [K
+purpose and falls under the Sports category."
+48,Sports Shoes 48,Sports,3068.55,"Sports Shoes 48 are designed for athletes and fitness enthusiasts, suitable[8D[K
+suitable for various sports and activities. Made from durable materials, th[2D[K
+these shoes provide support and comfort for performance and everyday wear. [K
+Ideal for running, training, and other sports, they are a versatile and pra[3D[K
+practical choice for anyone looking for a reliable pair of shoes."
+49,Adjustable Dumbbells 49,Sports,6502.57,"Adjustable dumbbells 49 are sports equipment designed for weightlifting and[3D[K
+and strength training. Suitable for home use or gym workouts, they offer a [K
+convenient and space-saving way to work out. Ideal for those looking to imp[3D[K
+improve their strength and fitness, these dumbbells are a versatile and ess[3D[K
+essential tool for any sports enthusiast."
+50,Fitness Band 50,Sports,3902.39,"A fitness band designed for athletes, the Fitness Band 50 is a sports categ[5D[K
+category product. It is available for ₹3902.39."
+51,Face Wash 51,Beauty,1976.87,"The Face Wash 51 is a beauty product suitable for cleaning and maintaining [K
+skin health."
+52,Moisturizer 52,Beauty,1205.63,"A moisturizer suitable for skincare purposes, falling under the category of[2D[K
+of Beauty, priced at ₹1205.63."
+53,Shampoo 53,Beauty,1481.49,The Shampoo 53 is a beauty product suitable for personal hair care.
+54,Perfume 54,Beauty,4695.94,"This perfume is a beauty product for personal fragrance use. It belongs to [K
+the category of beauty products. The product is priced at ₹4695.94."
+55,Sunscreen 55,Beauty,3310.57,"Sunscreen 55 is a beauty product suitable for protecting skin from the sun.[4D[K
+sun. It is part of the beauty category. This product is priced at ₹3310.57."
+56,Lip Balm 56,Beauty,3123.83,"This Lip Balm 56 is a beauty product designed to moisturize and protect dry[3D[K
+dry, chapped lips. Suitable for everyday use, it provides a gentle and soot[4D[K
+soothing solution to keep lips healthy and hydrated. Its affordable price m[1D[K
+makes it an accessible option for those looking for a reliable lip care pro[3D[K
+product."
+57,Hair Oil 57,Beauty,1021.47,"This Hair Oil 57 is a beauty product suitable for hair care and maintenance[11D[K
+maintenance."
+58,Body Lotion 58,Beauty,3699.81,"This Body Lotion 58 is a beauty product suitable for moisturizing and nouri[5D[K
+nourishing the skin. It falls under the category of beauty products, design[6D[K
+designed to promote healthy and hydrated skin. The product is priced at ₹36[3D[K
+₹3699.81 and is intended to provide moisturizing benefits."
+59,Face Cream 59,Beauty,984.33,"A beauty product suitable for skin care, specifically a moisturizing face c[1D[K
+cream, is the Face Cream 59."
+60,Beauty Care Kit 60,Beauty,2021.39,"This Beauty Care Kit 60 is a beauty product designed for personal grooming [K
+and skincare needs. It belongs to the beauty category and is priced at ₹202[4D[K
+₹2021.39."
+61,Smartphone 61,Electronics,79177.58,"A smartphone is a portable communication device suitable for personal and s[1D[K
+social interactions."
+62,Laptop 62,Electronics,51739.98,"This Laptop 62 is a computing device suitable for general computing tasks, [K
+such as browsing the internet, checking emails, and working with office app[3D[K
+applications. It falls under the category of electronics, making it a versa[5D[K
+versatile option for those looking for a basic laptop for everyday use."
+63,Wireless Headphones 63,Electronics,45220.55,"Wireless Headphones 63 are a type of Electronics suitable for listening to [K
+music or making phone calls on the go. They are designed for personal use, [K
+providing a convenient way to stay connected without the hassle of cables. [K
+Their price is ₹45220.55, making them a premium option for those seeking hi[2D[K
+high-quality wireless audio."
+64,Smartwatch 64,Electronics,55242.22,"This smartwatch is an electronics product, designed to be worn on the wrist[5D[K
+wrist. It falls under the category of wearable devices, intended for genera[6D[K
+general monitoring and tracking purposes. With a price of ₹55242.22, it is [K
+available for purchase."
+65,Tablet 65,Electronics,67663.88,"A tablet suitable for general computing tasks, entertainment, and multimedi[9D[K
+multimedia consumption."
+66,Digital Camera 66,Electronics,62415.99,"This digital camera is an electronic device suitable for capturing photos a[1D[K
+and recording videos."
+67,Mechanical Keyboard 67,Electronics,19480.27,"A mechanical keyboard is an input device designed for typing and gaming, su[2D[K
+suitable for computer users."
+68,Wireless Mouse 68,Electronics,4019.87,"A wireless mouse, categorized under Electronics, designed for general compu[5D[K
+computer use, allowing users to navigate and interact with digital content."
+69,Computer Monitor 69,Electronics,26263.06,"The Computer Monitor 69 is an electronics product designed to display visua[5D[K
+visual information. It belongs to the category of display devices used for [K
+general use in various settings. This monitor is priced at ₹26263.06, offer[5D[K
+offering a solution for those seeking a display device for their needs."
+70,Bluetooth Speaker 70,Electronics,22517.66,"A Bluetooth Speaker 70 is an electronic device suitable for playing music a[1D[K
+and other audio content wirelessly. It is a part of the Electronics categor[7D[K
+category. The device is priced at ₹22517.66."
+71,Cotton T-Shirt 71,Fashion,1924.57,"A high-quality cotton t-shirt suitable for casual wear, part of the fashion[7D[K
+fashion category. Made from cotton fabric, this t-shirt is ideal for everyd[6D[K
+everyday use. Its simple design makes it a versatile addition to any wardro[6D[K
+wardrobe. Perfect for staying comfortable and stylish."
+72,Slim Fit Jeans 72,Fashion,7560.4,"Slim Fit Jeans 72 are a pair of fashion jeans designed for everyday wear. S[1D[K
+Suitable for casual occasions, these slim fit jeans cater to individuals se[2D[K
+seeking a stylish and comfortable addition to their wardrobe. Ideal for dre[3D[K
+dressing up or down, they are a versatile fashion item."
+73,Casual Jacket 73,Fashion,7048.03,The Casual Jacket 73 is a fashion item suitable for casual wear.
+74,Running Sneakers 74,Fashion,2723.02,"Running Sneakers 74 are fashion footwear designed for casual wear. They are[3D[K
+are suitable for everyday activities such as running errands or engaging in[2D[K
+in leisure activities. Their style is geared towards fashion enthusiasts, a[1D[K
+adding a touch of elegance to any outfit. With a price of ₹2723.02, they ar[2D[K
+are a premium option for those seeking stylish footwear."
+75,Pullover Hoodie 75,Fashion,5346.88,"A pullover hoodie 75 is a casual, fashion-forward garment suitable for ever[4D[K
+everyday wear. Perfect for layering, it provides comfort and versatility. T[1D[K
+This pullover hoodie is part of the fashion category, making it a great add[3D[K
+addition to any wardrobe."
+76,Travel Backpack 76,Fashion,3346.37,"This Travel Backpack 76 is a fashion accessory suitable for daily travel an[2D[K
+and outings. Made of a durable material, it features a classic design that [K
+can be easily packed and carried. Its functional design allows for a comfor[6D[K
+comfortable carry, making it a versatile choice for daily commutes."
+77,Wrist Watch 77,Fashion,7342.02,"The Wrist Watch 77 is a fashion accessory designed to be worn on the wrist.[6D[K
+wrist. It falls under the category of Fashion, making it suitable for dress[5D[K
+dressing up or casual occasions. This wrist watch is priced at ₹7342.02, al[2D[K
+allowing users to make a stylish statement with their accessories."
+78,Sunglasses 78,Fashion,3833.16,"Sunglasses 78 are fashion accessories suitable for enhancing visual comfort[7D[K
+comfort and style."
+79,Casual Shoes 79,Fashion,2339.58,"Casual Shoes 79 are a fashion footwear option. They are designed for everyd[6D[K
+everyday wear and casual occasions. These shoes are part of the wider fashi[5D[K
+fashion category. They are available for purchase at ₹2339.58."
+80,Baseball Cap 80,Fashion,2199.03,"This Baseball Cap 80 is a fashion accessory, suitable for casual wear. It i[1D[K
+is designed to provide a stylish head covering with a simple, classic desig[5D[K
+design. The cap is made from a breathable material and features a secure fa[2D[K
+fastening system at the back. Available for ₹2199.03."
+81,Python Programming Book 81,Books,1513.08,"A Python Programming Book 81 is a comprehensive book suitable for learning [K
+Python programming."
+82,Data Science Book 82,Books,841.17,"This Data Science Book 82 is a book in the Books category, intended for edu[3D[K
+educational purposes related to data science."
+83,Machine Learning Book 83,Books,1565.32,"A Machine Learning Book 83 is a book suitable for learning and understandin[12D[K
+understanding machine learning concepts and theories. It falls under the ca[2D[K
+category of Books, providing a resource for those interested in machine lea[3D[K
+learning. This book is priced at ₹1565.32."
+84,AI Fundamentals Book 84,Books,2270.1,"The AI Fundamentals Book 84 is a comprehensive book available in the Books [K
+category."
+85,Database Systems Book 85,Books,1148.65,"A comprehensive database systems book is a resource for understanding and w[1D[K
+working with database technology. It provides information on database syste[5D[K
+systems, their design, implementation, and management. The book is suitable[8D[K
+suitable for those studying or working in the field of database systems, of[2D[K
+offering a detailed overview of the subject."
+86,Operating Systems Book 86,Books,743.47,"The Operating Systems Book 86 is a comprehensive guide. It belongs to the B[1D[K
+Books category. The product costs ₹743.47. This book is suitable for those [K
+interested in operating systems."
+87,Computer Networks Book 87,Books,2494.46,"This book, ""Computer Networks Book 87"", is a resource for those interested [K
+in the field of computer networks, falling under the category of Books."
+88,Java Programming Book 88,Books,1396.43,"This Java Programming Book is a resource for learning and understanding Jav[3D[K
+Java programming concepts. It belongs to the Books category, making it suit[4D[K
+suitable for individuals looking to improve their programming skills. The b[1D[K
+book provides a comprehensive guide to Java programming, perfect for studen[6D[K
+students, developers, and programmers seeking to expand their knowledge."
+89,Algorithms Book 89,Books,454.55,"The Algorithms Book 89 is a book suitable for those interested in algorithm[9D[K
+algorithms and computer science. It falls under the category of Books and i[1D[K
+is priced at ₹454.55. This book can be a resource for individuals looking t[1D[K
+to learn about algorithms and their applications."
+90,Cloud Computing Book 90,Books,356.01,"The Cloud Computing Book 90 is a book suitable for learning about cloud com[3D[K
+computing concepts. It belongs to the Books category and is priced at ₹356.[5D[K
+₹356.01."
+91,Table Lamp 91,Home,1582.89,"Table Lamp 91 is a home lighting fixture designed to provide ambient illumi[6D[K
+illumination in residential spaces. It is a table-based lamp suitable for g[1D[K
+general lighting purposes."
+92,Ergonomic Office Chair 92,Home,7641.12,"This Ergonomic Office Chair 92 is designed for comfort and support in the h[1D[K
+home setting, providing a suitable environment for working or relaxing. Its[3D[K
+Its purpose is to offer a comfortable seating solution for individuals."
+93,Cotton Bed Sheet 93,Home,9567.33,"A cotton bed sheet is a textile product designed for use on a bed, providin[8D[K
+providing comfort and hygiene for sleeping. This sheet is part of home furn[4D[K
+furnishings, intended for personal use. It is priced at ₹9567.33."
+94,Window Curtains 94,Home,5239.27,"Window Curtains 94 are a home decor product suitable for window treatments.[11D[K
+treatments. They are designed to provide privacy, block out light, and add [K
+a touch of style to any room. Made from [material], these curtains come in [K
+a 94-inch length and are available for ₹5239.27."
+95,Wall Clock 95,Home,1043.27,"A wall clock is a time-telling device for indoor use, commonly found in hom[3D[K
+homes. It serves as a decorative and functional piece to display the time, [K
+adding a sense of organization and rhythm to a room. Suitable for various h[1D[K
+home settings, this wall clock is a practical and aesthetically pleasing ad[2D[K
+addition."
+96,Storage Organizer 96,Home,4764.95,"A Storage Organizer 96 is a storage solution designed for home use, helping[7D[K
+helping to keep living spaces tidy and organized. It is a product within th[2D[K
+the Home category, intended to provide a convenient way to manage and store[5D[K
+store personal items."
+97,Decorative Cushion 97,Home,11954.62,"A decorative cushion, suitable for use in home settings to add comfort and [K
+style to upholstery."
+98,Desk Organizer 98,Home,6490.64,"The Desk Organizer 98 is a home accessory designed to help keep your worksp[6D[K
+workspace tidy and organized. Its purpose is to provide a convenient place [K
+to store office supplies and other daily essentials, promoting a clutter-fr[10D[K
+clutter-free environment. It is part of the Home category."
+99,Steel Water Bottle 99,Home,11661.62,"Steel Water Bottle 99 is a water bottle designed for everyday use. It belon[5D[K
+belongs to the Home category, making it suitable for indoor storage and use[3D[K
+use. This water bottle is available for ₹11661.62."
+100,Home Decor Set 100,Home,10371.12,"A home decor set of 100, categorized under home, is an assortment of decora[6D[K
+decorative items for indoor use. It is intended for enhancing the aesthetic[9D[K
+aesthetic appeal of a room."
+101,Football 101,Sports,510.22,"A football is a ball used in the sport of football. It is a sports equipmen[8D[K
+equipment designed for playing football, a popular team sport."
+102,Cricket Bat 102,Sports,7318.93,"The Cricket Bat 102 is a sports equipment item designed for use in the spor[4D[K
+sport of cricket. It is a bat used to hit the cricket ball. The bat is suit[4D[K
+suitable for players of various skill levels and is a fundamental part of t[1D[K
+the game. It is made of the same material as other cricket bats and is used[4D[K
+used in matches and practice sessions."
+103,Badminton Racket 103,Sports,6944.42,"The Badminton Racket 103 is a sports equipment designed for playing badmint[7D[K
+badminton. It is suitable for individuals and teams looking to enhance thei[4D[K
+their badminton game. This racket is categorized under sports and is priced[6D[K
+priced at ₹6944.42."
+104,Tennis Ball Set 104,Sports,5554.92,"A tennis ball set of 104 is a sports equipment designed for playing tennis.[7D[K
+tennis. Suitable for recreational and competitive players, this set consist[7D[K
+consists of 104 high-quality tennis balls. Ideal for regular practice sessi[5D[K
+sessions, matches, and training, this tennis ball set is a must-have for te[2D[K
+tennis enthusiasts."
+105,Gym Gloves 105,Sports,2961.52,"Gym Gloves 105 are designed for sports enthusiasts, providing grip and prot[4D[K
+protection during workouts. Suitable for various sports and activities, the[3D[K
+these gloves help improve performance and reduce risk of injury. Made from [K
+durable material, they offer a secure fit and comfort during exercise."
+106,Yoga Mat 106,Sports,6553.23,"A yoga mat designed for athletes and fitness enthusiasts, suitable for vari[4D[K
+various yoga styles and routines, falls under the category of sports equipm[6D[K
+equipment. This yoga mat is priced at ₹6553.23 and serves as a fundamental [K
+tool for practicing yoga and other exercises."
+107,Skipping Rope 107,Sports,1470.9,"A skipping rope is a device designed for physical exercise, typically used [K
+in sports and fitness activities. It is a tool used to improve cardiovascul[12D[K
+cardiovascular health and burn calories. Suitable for those involved in spo[3D[K
+sports and fitness, this product is designed to provide a cardiovascular wo[2D[K
+workout."
+108,Sports Shoes 108,Sports,4573.75,"Sports Shoes 108 are designed for athletic performance. Suitable for variou[6D[K
+various sports and physical activities, they provide comfort and support. M[1D[K
+Made for sports enthusiasts, these shoes are ideal for running, training, a[1D[K
+and other high-intensity workouts. Available for ₹4573.75."
+109,Adjustable Dumbbells 109,Sports,4755.75,"Adjustable dumbbells 109 are a sports equipment designed for weight trainin[7D[K
+training and fitness exercises. Suitable for home workouts, these dumbbells[9D[K
+dumbbells offer adjustable resistance levels to cater to different fitness [K
+needs. Perfect for building strength and endurance, they are an essential t[1D[K
+tool for anyone looking to improve their physical fitness."
+110,Fitness Band 110,Sports,9556.63,"This Fitness Band 110 is a sports accessory designed for athletes and fitne[5D[K
+fitness enthusiasts. It belongs to the sports category, where users can tra[3D[K
+track their physical activities and monitor their progress."
+111,Face Wash 111,Beauty,4404.09,"This Face Wash 111 is a beauty product for cleansing the skin. It falls und[3D[K
+under the category of Beauty. The product has a price of ₹4404.09."
+112,Moisturizer 112,Beauty,1464.27,Moisturizer 112 is a beauty product suitable for skin care.
+113,Shampoo 113,Beauty,2602.81,"A shampoo suitable for personal hygiene and grooming needs, falling under t[1D[K
+the category of Beauty."
+114,Perfume 114,Beauty,1057.53,The Perfume 114 is a beauty product suitable for personal fragrance use.
+115,Sunscreen 115,Beauty,4580.61,This sunscreen is a beauty product used to protect the skin from the sun.
+116,Lip Balm 116,Beauty,4378.49,"The Lip Balm 116 is a beauty product designed for lip care. It is a moistur[7D[K
+moisturizing lip balm suitable for general lip care tasks."
+117,Hair Oil 117,Beauty,1632.53,"Hair Oil 117 is a beauty product for use in hair care. It is suitable for c[1D[K
+conditioning and nourishing hair."
+118,Body Lotion 118,Beauty,3266.96,"This Body Lotion 118 is a beauty product designed to moisturize and nourish[7D[K
+nourish the skin. It is part of the beauty category, suitable for general s[1D[K
+skin care needs."
+119,Face Cream 119,Beauty,3123.06,"The Face Cream 119 is a beauty product designed for skin care. It belongs t[1D[K
+to the category of beauty products, used for general skin care purposes. Th[2D[K
+The product is priced at ₹3123.06."
+120,Beauty Care Kit 120,Beauty,933.63,"The Beauty Care Kit 120 is a comprehensive beauty care solution suitable fo[2D[K
+for general beauty care tasks. It is a part of the beauty category, designe[7D[K
+designed to meet everyday beauty care needs."
+121,Smartphone 121,Electronics,61357.1,"This smartphone is designed for everyday use, suitable for communication, e[1D[K
+entertainment, and basic tasks. It belongs to the electronics category, whe[3D[K
+where you can find other devices for staying connected and accessing inform[6D[K
+information. The smartphone is priced at ₹61357.1."
+122,Laptop 122,Electronics,43841.25,"This laptop is a computing device suitable for general computing tasks, all[3D[K
+allowing users to work, browse, and stay connected on the go. With its elec[4D[K
+electronic design, it is categorized under the broader electronics category[8D[K
+category. Available for purchase at ₹43841.25."
+123,Wireless Headphones 123,Electronics,62622.18,"Wireless Headphones 123 are a type of electronics suitable for listening to[2D[K
+to music, podcasts, or making phone calls on-the-go. They are designed for [K
+personal audio entertainment and are categorized under electronics. Availab[7D[K
+Available for purchase at ₹62622.18."
+124,Smartwatch 124,Electronics,43132.76,"The Smartwatch 124 is an electronic timepiece designed to be worn on the wr[2D[K
+wrist. It is a product within the category of Electronics. This device is s[1D[K
+suitable for monitoring daily activities and staying connected."
+125,Tablet 125,Electronics,1544.89,"This Tablet 125 is an electronics product designed for personal use. It bel[3D[K
+belongs to the electronics category. The tablet is priced at ₹1544.89."
+126,Digital Camera 126,Electronics,26946.25,"This digital camera is an electronic device designed to capture and record [K
+visual content. It belongs to the Electronics category, where it can be use[3D[K
+used for various photography purposes. The camera is priced at ₹26946.25."
+127,Mechanical Keyboard 127,Electronics,3028.92,A mechanical keyboard is a typing device suitable for typing tasks.
+128,Wireless Mouse 128,Electronics,74434.24,"This Wireless Mouse 128 is an electronics product suitable for general comp[4D[K
+computer use."
+129,Computer Monitor 129,Electronics,70479.67,"A computer monitor 129 is an electronics product designed to display visual[6D[K
+visual content for various tasks. Suitable for general computing, it provid[6D[K
+provides a visual interface for users to interact with digital information."
+130,Bluetooth Speaker 130,Electronics,66785.74,"A Bluetooth Speaker 130 is an electronics product suitable for listening to[2D[K
+to music or podcasts."
+131,Cotton T-Shirt 131,Fashion,2667.86,"This Cotton T-Shirt 131 is a fashion item suitable for casual wear. It is a[1D[K
+a basic, everyday top made from cotton. It can be worn on its own or layere[6D[K
+layered under jackets or cardigans."
+132,Slim Fit Jeans 132,Fashion,746.02,"Slim Fit Jeans 132 is a fashionable clothing item suitable for casual wear.[5D[K
+wear. Part of the Fashion category, these jeans offer a stylish and comfort[7D[K
+comfortable option for everyday use."
+133,Casual Jacket 133,Fashion,7060.67,"This Casual Jacket 133 is a fashion item designed for everyday wear. Suitab[6D[K
+Suitable for casual occasions, it is part of the fashion category. Made fro[3D[K
+from a material not specified, it is available for ₹7060.67."
+134,Running Sneakers 134,Fashion,7591.51,"Running Sneakers 134 is a fashion footwear product designed for athletic ac[2D[K
+activities and casual wear. Suitable for running, walking, and other sports[6D[K
+sports, this sneaker features a comfortable design and durable materials. I[1D[K
+It is part of the fashion category, ideal for those looking for stylish and[3D[K
+and functional footwear."
+135,Pullover Hoodie 135,Fashion,959.53,"This Pullover Hoodie 135 is a fashion item suitable for casual, everyday we[2D[K
+wear. Made from [material], it provides warmth and comfort for outdoor acti[4D[K
+activities or general use. Its design features a pullover style with a hood[4D[K
+hood for added protection from the elements. The hoodie is available for ₹9[2D[K
+₹959.53."
+136,Travel Backpack 136,Fashion,4042.13,"The Travel Backpack 136 is a fashion accessory suitable for carrying person[6D[K
+personal items while traveling. It is designed to provide a convenient and [K
+organized way to transport essentials, making it a practical choice for ind[3D[K
+individuals who value mobility and convenience."
+137,Wrist Watch 137,Fashion,832.94,"This wrist watch is a fashion accessory suitable for everyday wear. Its cat[3D[K
+category places it among style-conscious individuals. With a price point of[2D[K
+of ₹832.94, it is a moderately priced fashion item."
+138,Sunglasses 138,Fashion,6156.64,"Sunglasses 138 are a fashion accessory designed to provide eye protection a[1D[K
+and style. They fall under the category of fashion, intended to enhance one[3D[K
+one's overall look. With a price of ₹6156.64, they are a premium option for[3D[K
+for those seeking a stylish accessory."
+139,Casual Shoes 139,Fashion,6196.93,"Casual Shoes 139 are fashion shoes designed for everyday wear. They are sui[3D[K
+suitable for casual occasions and complement a variety of outfits. With a s[1D[K
+stylish design, they are perfect for those looking to upgrade their footwea[7D[K
+footwear collection."
+140,Baseball Cap 140,Fashion,1288.61,"This Baseball Cap 140 is a fashion accessory designed to be worn on the hea[3D[K
+head. It falls under the category of clothing and is intended for everyday [K
+wear."
+141,Python Programming Book 141,Books,1319.39,"A Python Programming Book 141 is a comprehensive resource for learning the [K
+Python programming language. This book is part of the programming category,[9D[K
+category, offering insights and knowledge for those interested in programmi[9D[K
+programming and software development. It provides in-depth information and [K
+guidelines for mastering Python programming skills."
+142,Data Science Book 142,Books,1487.06,"A Data Science Book is a publication focused on the field of data science, [K
+providing knowledge and insights to those interested in the subject. It is [K
+a resource suitable for individuals seeking to learn about data science con[3D[K
+concepts and techniques. The book is priced at ₹1487.06."
+143,Machine Learning Book 143,Books,846.38,"A book on machine learning, suitable for individuals interested in the subj[4D[K
+subject, is a resource for learning and understanding machine learning conc[4D[K
+concepts."
+144,AI Fundamentals Book 144,Books,2212.97,"A book titled ""AI Fundamentals Book 144"" is a publication for learning the [K
+fundamentals of Artificial Intelligence. It falls under the category of Boo[3D[K
+Books, and is priced at ₹2212.97."
+145,Database Systems Book 145,Books,1202.06,"A book titled ""Database Systems Book 145"" is a resource for learning about [K
+database systems, a category of computer science that deals with data stora[5D[K
+storage and management. It is suitable for readers seeking information on d[1D[K
+database systems."
+146,Operating Systems Book 146,Books,726.55,"This book is a resource for those interested in operating systems, offering[8D[K
+offering a comprehensive collection of information on the subject. It falls[5D[K
+falls under the category of books, which are suitable for those seeking kno[3D[K
+knowledge on various topics, including technology and computing."
+147,Computer Networks Book 147,Books,1463.42,"This book, Computer Networks Book 147, is a resource in the Books category.[9D[K
+category. It serves as a detailed study guide for understanding computer ne[2D[K
+networks, providing comprehensive information on the subject."
+148,Java Programming Book 148,Books,1892.34,"This Java Programming Book 148 is a resource for those looking to learn or [K
+improve their programming skills. It belongs to the Books category."
+149,Algorithms Book 149,Books,702.59,"A comprehensive book on algorithms, suitable for students, professionals, o[1D[K
+or enthusiasts looking to learn about algorithms, data structures, and thei[4D[K
+their applications in computer science. This book is a valuable resource fo[2D[K
+for those interested in understanding the theoretical foundations of algori[6D[K
+algorithms and their practical implementation."
+150,Cloud Computing Book 150,Books,951.36,"The Cloud Computing Book 150 is a resource for individuals interested in le[2D[K
+learning about cloud computing, a key aspect of modern computing. This book[4D[K
+book provides a comprehensive overview of cloud computing, making it an ide[3D[K
+ideal choice for those looking to expand their knowledge in the field."
+151,Table Lamp 151,Home,11943.25,"This Table Lamp 151 is a home accessory designed to provide lighting for a [K
+room. It is a table lamp suitable for general lighting tasks."
+152,Ergonomic Office Chair 152,Home,7903.57,"This ergonomic office chair is designed for comfort and support in a home s[1D[K
+setting. Suitable for individuals who spend long hours sitting, it provides[8D[K
+provides a comfortable seating experience. Made from various materials, thi[3D[K
+this chair is intended for general office use, such as working or studying."
+153,Cotton Bed Sheet 153,Home,5425.77,"A Cotton Bed Sheet 153 is a bed sheet designed for sleeping purposes, falli[5D[K
+falling under the Home category."
+154,Window Curtains 154,Home,6355.64,"Window Curtains 154 are a home decor item designed to provide privacy and s[1D[K
+shade for windows. They are suitable for general home interior design and a[1D[K
+aesthetic purposes."
+155,Wall Clock 155,Home,1715.75,"The Wall Clock 155 is a home decorative item, designed to be hung on a wall[4D[K
+wall and display the time. It is suitable for everyday use in a living spac[4D[K
+space, adding a touch of elegance to any room. Made of a durable material, [K
+this wall clock is a practical addition to any home."
+156,Storage Organizer 156,Home,2928.96,"A Storage Organizer 156 is a home storage solution designed to keep your li[2D[K
+living space organized. It is suitable for storing personal items, keeping [K
+clutter at bay, and maintaining a tidy environment. This storage unit can b[1D[K
+be placed in a bedroom, office, or living room to help maintain order and s[1D[K
+serenity."
+157,Decorative Cushion 157,Home,4255.6,"This Decorative Cushion 157 is a home accessory designed to add a touch of [K
+elegance to any room. Its purpose is to provide comfort and style through i[1D[K
+its decorative design. It is a part of the home category, making it suitabl[7D[K
+suitable for use in living spaces, bedrooms, or any room that requires a de[2D[K
+decorative accent."
+158,Desk Organizer 158,Home,7183.21,"This Desk Organizer 158 is a home accessory designed to help maintain a clu[3D[K
+clutter-free workspace. Its purpose is to provide a convenient and organize[8D[K
+organized space for placing office supplies and documents. Suitable for use[3D[K
+use in home offices, study areas, and desks, this product helps to improve [K
+productivity and overall workspace organization."
+159,Steel Water Bottle 159,Home,2992.34,"A steel water bottle, suitable for storing and carrying drinking water, is [K
+a household item often used in the home category. This bottle is made of st[2D[K
+steel and priced at ₹2992.34."
+160,Home Decor Set 160,Home,2876.54,"This Home Decor Set 160 is a home accessory designed to enhance interior de[2D[K
+design. It belongs to the home category."
+161,Football 161,Sports,1081.53,The Football 161 is a sports equipment item suitable for playing football.
+162,Cricket Bat 162,Sports,6458.59,"The Cricket Bat 162 is a sports equipment designed for cricket, a popular b[1D[K
+bat-and-ball game. It belongs to the sports category, suitable for players [K
+looking to improve their cricket skills."
+163,Badminton Racket 163,Sports,2597.84,This badminton racket is a sports equipment suitable for playing badminton.
+164,Tennis Ball Set 164,Sports,9092.03,"A tennis ball set is a set of balls used for playing tennis, a popular spor[4D[K
+sport. It is a sports equipment suitable for playing tennis."
+165,Gym Gloves 165,Sports,8652.5,"The Gym Gloves 165 are sports equipment designed for individuals participat[10D[K
+participating in physical activities such as weightlifting, bodybuilding, a[1D[K
+and fitness training. They are suitable for use in gyms, fitness centers, a[1D[K
+and home workout environments. The gloves are priced at ₹8652.5."
+166,Yoga Mat 166,Sports,1080.23,A yoga mat suitable for yoga and other floor-based exercises.
+167,Skipping Rope 167,Sports,2684.84,"A skipping rope is a sports equipment suitable for jumping rope, a cardio e[1D[K
+exercise often used in fitness and sports training."
+168,Sports Shoes 168,Sports,6822.19,"Sports Shoes 168 are designed for athletic activities, catering to the need[4D[K
+needs of sports enthusiasts. Suitable for running, training, and other high[4D[K
+high-intensity sports, these shoes provide comfort and support for a range [K
+of sports. Made from a durable material, they are ideal for individuals see[3D[K
+seeking a reliable and comfortable athletic shoe."
+169,Adjustable Dumbbells 169,Sports,2456.67,"Adjustable Dumbbells 169 are designed for strength training and fitness exe[3D[K
+exercises. Suitable for home workouts and gyms, they provide a versatile an[2D[K
+and adjustable resistance level for a range of muscle exercises. Perfect fo[2D[K
+for fitness enthusiasts and athletes looking to improve their strength and [K
+endurance."
+170,Fitness Band 170,Sports,1670.19,"This Fitness Band 170 is a sports category product designed for fitness tra[3D[K
+tracking and monitoring. It is suitable for individuals who engage in physi[5D[K
+physical activities and want to monitor their progress. The product is pric[4D[K
+priced at ₹1670.19."
+171,Face Wash 171,Beauty,4690.47,"Face Wash 171 is a beauty product designed for cleansing and care of the sk[2D[K
+skin. Suitable for general beauty and skincare needs, this product falls un[2D[K
+under the category of Beauty. It is priced at ₹4690.47."
+172,Moisturizer 172,Beauty,2941.01,"Moisturizer 172 is a beauty product designed to moisturize and nourish the [K
+skin. Suitable for general skin care needs, it is a part of the beauty cate[4D[K
+category."
+173,Shampoo 173,Beauty,2468.82,"This shampoo is a beauty product designed for cleaning and caring for hair.[5D[K
+hair. It belongs to the category of beauty products. The product has a pric[4D[K
+price of ₹2468.82."
+174,Perfume 174,Beauty,3966.17,"This perfume is a beauty product, suitable for personal use."
+175,Sunscreen 175,Beauty,4075.99,"This sunscreen is a beauty product suitable for protecting skin from the su[2D[K
+sun."
+176,Lip Balm 176,Beauty,1113.97,"This Lip Balm 176 is a beauty product suitable for lip care. It is availabl[8D[K
+available for ₹1113.97."
+177,Hair Oil 177,Beauty,665.27,Hair Oil 177 is a beauty product suitable for hair care.
+178,Body Lotion 178,Beauty,2269.05,"The Body Lotion 178 is a beauty product suitable for moisturizing and hydra[5D[K
+hydrating the skin. It falls under the category of Beauty. This lotion is a[1D[K
+available for purchase at ₹2269.05."
+179,Face Cream 179,Beauty,2233.18,"This Face Cream 179 is a beauty product designed for skin care. It falls un[2D[K
+under the category of Beauty. The product is priced at ₹2233.18."
+180,Beauty Care Kit 180,Beauty,2441.72,"The Beauty Care Kit 180 is a beauty product designed for personal grooming [K
+and skin care. This kit is categorized under beauty and is priced at ₹2441.[6D[K
+₹2441.72. It is a comprehensive set intended for daily use."
+181,Smartphone 181,Electronics,58732.45,"The Smartphone 181 is an electronics product suitable for mobile communicat[10D[K
+communication and entertainment purposes. It is designed for personal use a[1D[K
+and allows users to stay connected with others, access information, and enj[3D[K
+enjoy multimedia content on the go."
+182,Laptop 182,Electronics,54359.12,"This laptop is a portable computing device suitable for general computing t[1D[K
+tasks. It belongs to the electronics category. With a price of ₹54359.12, i[1D[K
+it offers a reliable option for those seeking a basic computing solution."
+183,Wireless Headphones 183,Electronics,78756.97,"Wireless Headphones 183 are an electronic device designed for personal audi[4D[K
+audio listening, suitable for music, podcasts, and phone calls. They are ca[2D[K
+categorized under electronics, allowing users to enjoy uninterrupted sound [K
+without being tethered to a device. Their price is ₹78756.97, making them a[1D[K
+a mid-range option in the market."
+184,Smartwatch 184,Electronics,9225.8,"The Smartwatch 184 is an electronic device designed for personal monitoring[10D[K
+monitoring and notification. It falls under the category of Electronics. Th[2D[K
+The product's purpose is to provide a wearable device for users."
+185,Tablet 185,Electronics,33105.77,"This Tablet 185 is an electronics product designed for portable entertainme[11D[K
+entertainment and digital content consumption. It is suitable for reading, [K
+browsing, and general digital use on the go."
+186,Digital Camera 186,Electronics,28135.25,"This Digital Camera 186 is an electronics product designed for photography [K
+purposes. It is a general-purpose digital camera suitable for capturing mom[3D[K
+moments and memories."
+187,Mechanical Keyboard 187,Electronics,69141.29,"This Mechanical Keyboard 187 is a high-quality keyboard designed for typing[6D[K
+typing and computing tasks. Suitable for individuals who value precision an[2D[K
+and speed, it is a popular choice for gamers, writers, and programmers. Mad[3D[K
+Made from durable materials, it provides a comfortable typing experience an[2D[K
+and is ideal for everyday computing needs."
+188,Wireless Mouse 188,Electronics,21019.52,"This wireless mouse is an electronic device designed for computer input. Su[2D[K
+Suitable for general computing tasks, it allows users to navigate and inter[5D[K
+interact with their computer."
+189,Computer Monitor 189,Electronics,16431.4,"This computer monitor is designed for display purposes, suitable for use in[2D[K
+in an office or home setting. It is a part of the electronics category, off[3D[K
+offering a visual output for information and entertainment. The monitor is [K
+available for ₹16431.4."
+190,Bluetooth Speaker 190,Electronics,36716.16,"A Bluetooth Speaker 190 is an electronics product suitable for audio playba[6D[K
+playback."
+191,Cotton T-Shirt 191,Fashion,3548.49,The Cotton T-Shirt 191 is a fashion item suitable for everyday casual wear.
+192,Slim Fit Jeans 192,Fashion,2444.8,Slim Fit Jeans 192 are fashion trousers designed for everyday wear.
+193,Casual Jacket 193,Fashion,2223.51,The Casual Jacket 193 is a fashion product suitable for casual wear.
+194,Running Sneakers 194,Fashion,7409.15,"Running Sneakers 194 are a fashion product suitable for casual wear and ath[3D[K
+athletic activities. They are designed for comfort and style, ideal for eve[3D[K
+everyday use or running errands. Made from a durable material, these sneake[6D[K
+sneakers are perfect for anyone looking for a reliable and fashionable foot[4D[K
+footwear option."
+195,Pullover Hoodie 195,Fashion,3712.11,"This Pullover Hoodie 195 is a fashion item suitable for casual wear. It is [K
+a type of outerwear designed to keep you warm and comfortable."
+196,Travel Backpack 196,Fashion,6932.39,"The Travel Backpack 196 is a fashion item designed for carrying essentials [K
+during travel. It belongs to the category of Fashion. This backpack is pric[4D[K
+priced at ₹6932.39."
+197,Wrist Watch 197,Fashion,4537.5,"The Wrist Watch 197 is a fashion accessory designed for stylish individuals[11D[K
+individuals. Suitable for casual wear, it complements any outfit. Made from[4D[K
+from a durable material, this watch is perfect for everyday use. Ideal for [K
+those who value simplicity and elegance, it adds a touch of sophistication [K
+to any ensemble."
+198,Sunglasses 198,Fashion,689.53,"Sunglasses 198 are fashion accessories suitable for wearing on the face. Th[2D[K
+They belong to the category of Fashion. The product is priced at ₹689.53."
+199,Casual Shoes 199,Fashion,7994.48,"Casual Shoes 199 is a fashion item suitable for everyday wear. Designed for[3D[K
+for comfort and style, these shoes are part of the fashion category. Ideal [K
+for casual occasions, they are a versatile choice for those looking for a r[1D[K
+reliable and fashionable shoe option."
+200,Baseball Cap 200,Fashion,6737.41,"This Baseball Cap 200 is a fashion accessory designed for casual wear. It i[1D[K
+is part of the fashion category, making it suitable for everyday use. This [K
+baseball cap is available for ₹6737.41."

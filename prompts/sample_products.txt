@@ -1,0 +1,22 @@
+SAMPLE PRODUCT 1
+----------------
+Product Name: Wireless Bluetooth Headphones
+Category: Electronics
+Key Features: Wireless connectivity, noise cancellation, 30-hour battery life
+Target Customer: Students and professionals
+
+
+SAMPLE PRODUCT 2
+----------------
+Product Name: Premium Cotton Hoodie
+Category: Fashion
+Key Features: Soft cotton fabric, regular fit, full sleeves
+Target Customer: College students and young adults
+
+
+SAMPLE PRODUCT 3
+----------------
+Product Name: Smart Fitness Watch
+Category: Sports
+Key Features: Activity tracking, heart-rate monitoring, step counter
+Target Customer: Fitness enthusiasts and active users

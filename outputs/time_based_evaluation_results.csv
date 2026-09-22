@@ -1,0 +1,4 @@
+metric,value
+Precision@5,0.1432
+Recall@5,0.0889
+Evaluated Users,1000
